@@ -1,0 +1,8 @@
+{
+    "staging":{
+        "baseUrl": "https://cdn.contentful.com",
+        "space"  : "uf7s8ij5v1w2",
+        "environments": "staging",
+        "accessToken": "B6pAN8kOMIjhCiLZbR1-__SOoIfLhkH3jOs-Yccipwc"
+    }
+}
